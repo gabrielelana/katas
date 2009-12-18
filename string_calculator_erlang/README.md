@@ -1,5 +1,6 @@
 # String Calculator Kata by Roy Osherove
-(http://osherove.com/tdd-kata-1/)
+## see http://osherove.com/tdd-kata-1/
+## watch my performance http://vimeo.com/8206748
 
 1. Create a simple String calculator with a method int Add(string numbers)
 1.1. The method can take 0, 1 or 2 numbers, and will return their sum (for an empty string it will return 0) for example “” or “1” or “1,2”

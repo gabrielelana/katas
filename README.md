@@ -1,0 +1,3 @@
+- What is a Code Kata? see http://blog.objectmentor.com/articles/2009/11/21/whats-all-this-nonsense-about-katas
+- In the **master** branch you could find the starting point to perform the kata
+- In the **solutions** branch you could find my solution
